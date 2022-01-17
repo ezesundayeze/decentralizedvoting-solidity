@@ -1,6 +1,6 @@
 # Voting smart contract
 
-- his contract is used to implement a voting application for small enterprises.
+- This contract is used to implement a voting application for small enterprises.
 - The voting application is a simple mechanism to allow users to vote on a set of proposals.
 - It is designed to be used in a decentralized manner.
 
